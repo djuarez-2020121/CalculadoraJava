@@ -1,0 +1,69 @@
+
+/* 
+    Created on : 15/04/2021, 03:20:55 PM
+    Author     : Daniel Juárez
+*/
+
+/*---------Efectios para el boton 1------*/
+
+.button1
+{
+    -fx-background-color: #32D8B2;
+    -fx-background-radius: 10 10 10 10;
+}
+
+.button1:hover
+{
+    -fx-background-color: #F7F409;
+    -fx-background-radius: 10 10 10 10;
+}
+
+.button1:pressed
+{
+    -fx-background-color: #F70909;
+    -fx-background-radius: 10 10 10 10;
+}
+
+/*---------Efectios para el boton 2------*/
+
+.button2
+{
+    -fx-background-color: #D3F709;
+    -fx-background-radius: 10 10 10 10;
+}
+.button2:hover
+{
+    -fx-background-color: #F0840A;
+    -fx-background-raduis: 10 10 10 10;
+}
+
+.button2:pressed
+{
+    -fx-background-color: #FF0000;
+    -fx-background-radius: 10 10 10 10;
+}
+
+/*---------Efectios para el boton 3------*/
+
+.button3
+{
+    -fx-background-color: #32CB09;
+    -fx-background-raduis: 10 10 10 10;
+}
+.button3:hover
+{
+    -fx-background-color: #DADA48;
+    -fx-background-raduis: 30 0 30 30;
+}
+.button3:pressed
+{
+    -fx-background-color: #E1F700;
+    -fx-background-raduis: 30 0 30 30;
+}
+
+/*---------Efectios para el AnchorPane------*/
+.anchorPane1
+{
+    -fx-background-color:  #08767B;
+    -fx-background-radius: 10 10 10 10;
+}
